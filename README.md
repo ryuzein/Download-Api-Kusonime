@@ -7,7 +7,6 @@
   <a href="#usage">Usage</a> •
   <a href="#features">Features</a> •
   <a href="#response">Response</a> •
-  <a href="#contributions">Contribute</a>
 </p>
 
 ---
@@ -177,8 +176,3 @@ Response Will be like this:
 ]
 ```
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-## Contributions
-Contributions are welcomed! <3 <br/>
-Open an issue or a pull request to contribute.
