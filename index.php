@@ -1,10 +1,4 @@
 <?php
-
-// Kusonime Scrapper
-// MADE BY ME : RINNN
-// MY CODE SO DIRTY LIKE SHIT :(
-// My Facebook : fb.com/azum.co
-
 header('Content-Type: application/json');
 include_once("lib/simple_html_dom.php");
 
