@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://i.pinimg.com/originals/a3/1b/ec/a31becfcb76c2a3d73118c2b7b302b0b.png"  align="center"/>
-</p>
 
 <h1 align="center"> Kusonime Scrapper </h1>
 </p>
